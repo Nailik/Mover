@@ -1,0 +1,15 @@
+E:\Projekte\FileSorting\FileSorting\obj\Release\MainWindow.g.cs
+E:\Projekte\FileSorting\FileSorting\obj\Release\App.g.cs
+E:\Projekte\FileSorting\FileSorting\obj\Release\MainWindow.baml
+E:\Projekte\FileSorting\FileSorting\obj\Release\FileSorting.Properties.Resources.resources
+E:\Projekte\FileSorting\FileSorting\obj\Release\FileSorting.csproj.GenerateResource.Cache
+E:\Projekte\FileSorting\FileSorting\bin\Release\Mover.exe.config
+E:\Projekte\FileSorting\FileSorting\bin\Release\Mover.exe
+E:\Projekte\FileSorting\FileSorting\bin\Release\Mover.pdb
+E:\Projekte\FileSorting\FileSorting\obj\Release\FileSorting.csprojResolveAssemblyReference.cache
+E:\Projekte\FileSorting\FileSorting\obj\Release\Mover_MarkupCompile.cache
+E:\Projekte\FileSorting\FileSorting\obj\Release\Mover_MarkupCompile.lref
+E:\Projekte\FileSorting\FileSorting\obj\Release\Mover.g.resources
+E:\Projekte\FileSorting\FileSorting\obj\Release\Mover.exe
+E:\Projekte\FileSorting\FileSorting\obj\Release\Mover.pdb
+E:\Projekte\FileSorting\FileSorting\bin\Release\System.Net.Http.dll
